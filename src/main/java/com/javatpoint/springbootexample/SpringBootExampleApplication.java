@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootExampleApplication.class, args);
-		System.out.println("First commit");
+		System.out.println("2nd commit");
 	}
 }
